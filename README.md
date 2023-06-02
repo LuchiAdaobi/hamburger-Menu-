@@ -41,4 +41,4 @@ closeBtn.addEventListener('click', () => {
 });
 ```
 ## Demo
-A live demo of this project can be found at [link-to-demo].
+A live demo of this project can be found at A live demo of this project can be found at [link-to-demo](https://hamburger-menuu.netlify.app/).
